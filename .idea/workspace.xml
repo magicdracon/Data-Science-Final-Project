@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1440fb46-a251-4d7f-9abf-3c4ae26418c6" name="Changes" comment="Updated Sam's cleaning tasks (clean up names, convert supporting/opposing to true/ false, create data frame of just large donations, identify swing states)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +23,12 @@
     &quot;assignee&quot;: &quot;RichLewi2424&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/magicdracon/Data-Science-Final-Project",
-    "accountId": "a79cc69c-00cb-4086-823c-57ecb4377b6a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/magicdracon/Data-Science-Final-Project&quot;,
+    &quot;accountId&quot;: &quot;a79cc69c-00cb-4086-823c-57ecb4377b6a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
