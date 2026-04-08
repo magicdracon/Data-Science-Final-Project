@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1440fb46-a251-4d7f-9abf-3c4ae26418c6" name="Changes" comment="Updated Sam's cleaning tasks (clean up names, convert supporting/opposing to true/ false, create data frame of just large donations, identify swing states)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +25,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/magicdracon/Data-Science-Final-Project&quot;,
-    &quot;accountId&quot;: &quot;a79cc69c-00cb-4086-823c-57ecb4377b6a&quot;
+    &quot;url&quot;: &quot;https://github.com/magicdracon/Data-Science-Final-Project.git&quot;,
+    &quot;accountId&quot;: &quot;3c0b6e84-b5eb-4bb4-8909-62f1f02f856c&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -59,6 +60,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
         <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
       </set>
     </attachedChunks>
@@ -72,6 +74,9 @@
       <updated>1774383247942</updated>
       <workItem from="1774383249136" duration="2563000" />
       <workItem from="1774391881183" duration="4760000" />
+      <workItem from="1775588639939" duration="213000" />
+      <workItem from="1775588858346" duration="24000" />
+      <workItem from="1775673245442" duration="3038000" />
     </task>
     <servers />
   </component>
