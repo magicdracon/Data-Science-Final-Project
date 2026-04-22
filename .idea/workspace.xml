@@ -7,9 +7,7 @@
     <list default="true" id="1440fb46-a251-4d7f-9abf-3c4ae26418c6" name="Changes" comment="Reformated some parts and changed the &quot;quantity vs quality&quot; graph to make more sense">
       <change beforePath="$PROJECT_DIR$/.idea/Data-Science-Final-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Science-Final-Project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/map.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/magicdracon/Data-Science-Final-Project.git",
-    "accountId": "52912808-60ff-4d0f-bbf1-721308ee724e"
+    "accountId": "3c0b6e84-b5eb-4bb4-8909-62f1f02f856c"
   }
 }]]></component>
   <component name="McpProjectServerCommands">
@@ -103,6 +101,7 @@
       <workItem from="1776657510556" duration="2069000" />
       <workItem from="1776800529233" duration="2024000" />
       <workItem from="1776802661113" duration="4337000" />
+      <workItem from="1776820007773" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Converted some code cells to markdown cells.">
       <option name="closed" value="true" />
